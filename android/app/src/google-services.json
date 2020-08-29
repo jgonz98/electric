@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "776880783416",
+    "firebase_url": "https://electric-ieee.firebaseio.com",
+    "project_id": "electric-ieee",
+    "storage_bucket": "electric-ieee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776880783416:android:afc92d407a9687d663e6cd",
+        "android_client_info": {
+          "package_name": "com.example.electric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776880783416-6n16o23c9moddphgqa0sd39hviunaqi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsH4IwJpaqXQYWMoymp_kPyaGR40zOQuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776880783416-6n16o23c9moddphgqa0sd39hviunaqi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

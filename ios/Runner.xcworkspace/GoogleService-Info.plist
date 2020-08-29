@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>776880783416-asvhud430qau4a2brjm39iu6esa5kreq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.776880783416-asvhud430qau4a2brjm39iu6esa5kreq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD2SBVAa5YwyYgmdT2Kf3_9DxWNzQum3Gg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>776880783416</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.electric</string>
+	<key>PROJECT_ID</key>
+	<string>electric-ieee</string>
+	<key>STORAGE_BUCKET</key>
+	<string>electric-ieee.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:776880783416:ios:e4c809a909acbdb263e6cd</string>
+	<key>DATABASE_URL</key>
+	<string>https://electric-ieee.firebaseio.com</string>
+</dict>
+</plist>
