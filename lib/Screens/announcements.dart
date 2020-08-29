@@ -235,7 +235,7 @@ class _AnnouncementsState extends State<Announcements> {
                           boxShadow: [
                             new BoxShadow(
                               color: Colors.grey,
-                              blurRadius: 10.0,
+                              blurRadius: 100,
                             )
                           ],
                           color: Colors.orange[300],
