@@ -1,3 +1,5 @@
+/// `IEEE PROJECT: ELECTRIC`
+
 import 'package:flutter/material.dart';
 import 'screens/announcements.dart';
 
