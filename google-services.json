@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920993878042",
+    "firebase_url": "https://electric-f7aab.firebaseio.com",
+    "project_id": "electric-f7aab",
+    "storage_bucket": "electric-f7aab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920993878042:android:c9b4497ace1b9ec095c1a3",
+        "android_client_info": {
+          "package_name": "com.IEEEUTRGV.IEEEEntertainment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920993878042-87b6f7drfkkr2ib69b0u2kulmmiv1fao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbDFFjO-F6N-Q_JVe7jMmw0T__PH_pqSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920993878042-87b6f7drfkkr2ib69b0u2kulmmiv1fao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
