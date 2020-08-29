@@ -1,5 +1,6 @@
-import 'package:flutter/material.dart';
+/// `IEEE PROJECT: ELECTRIC`
 
+import 'package:flutter/material.dart';
 import 'screens/announcements.dart';
 
 void main() {

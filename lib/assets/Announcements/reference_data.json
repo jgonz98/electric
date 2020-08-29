@@ -1,5 +1,14 @@
-{
-  "name": "bezkoder",
-  "color": 30,
-  "image": ".images/default.jpg"
-}
+[
+  {
+    "header": "Header",
+    "body": "Body",
+    "type": "Meeting",
+    "image": ".images/default.jpg"
+  },
+  {
+    "header": "Header",
+    "body": "Body",
+    "type": "Meeting",
+    "image": ".images/default.jpg"
+  }
+]
