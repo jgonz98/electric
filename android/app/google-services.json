@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "671290814387",
+    "firebase_url": "https://ieee-tech.firebaseio.com",
+    "project_id": "ieee-tech",
+    "storage_bucket": "ieee-tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671290814387:android:4a5930fabb4bf674b265c6",
+        "android_client_info": {
+          "package_name": "com.IEEEUTRGV.IEEEEntertainment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671290814387-ifbjgphq2n2mv5d0t3vn31g8uerq5n07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtCrSEMlsoO3gDFG2ZlvT9v0I60ROiRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671290814387-ifbjgphq2n2mv5d0t3vn31g8uerq5n07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

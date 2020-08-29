@@ -1,33 +1,31 @@
-import 'package:electric/viewmodels/announcementArticleListViewModel.dart';
 import 'package:flutter/material.dart';
-import 'Screens/announcements.dart';
-import 'package:provider/provider.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
+
+import 'screens/announcements.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(App());
 }
 
-class MyApp extends StatelessWidget {
+class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      title: 'Project: electric',
-      theme: ThemeData(
-        primarySwatch: Colors.blueGrey,
-        visualDensity: VisualDensity.adaptivePlatformDensity,
-      ),
-      //Firestore instance tracker to see if user is logged in
-      //via the cloud
-      home: StreamBuilder(
-        stream: Firestore.instance.collection('electric-ieee').snapshots(),
-        builder: (context, snapshot) {
-          if (!snapshot.hasData) return const Text('Loading...');
-          return Announcements();
-          //passing data to our announcement manager from main. (snapshot)
-        },
-      ),
-    );
+        debugShowCheckedModeBanner: false,
+        title: "IEEE Mobile Application",
+        //Announcements page.
+        //Only seen if the user is signed in.
+        /*
+        - Shows all events in reverse chronological order
+        (Today on top, past underneath)
+        - Uses filters by type via gesture detector
+        - Announcement tiles should have:
+          + Event type
+          + Event header
+          + Event description
+          + Event Supporting Image
+        - Drawer to direct to multiple pages and handle navigation
+        - App Bar should contain event search and user account tab, which navigate.
+        */
+        home: Announcements());
   }
 }
